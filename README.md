@@ -15,3 +15,9 @@ is working and what kind of signals send arround? 3 way etc. If confident order 
 * https://triq.org/rtl_433/
 * https://www.youtube.com/watch?v=1RipwqJG50c
 * https://amzn.eu/d/84TPR4D
+
+## learn about NFC Credit Card security
+
+* Which data sotored on the card
+* What is the security involved? Encrypted or obfuscation
+* What is isodep NFC a 
